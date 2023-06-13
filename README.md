@@ -1,2 +1,3 @@
 # CLASE-3_en-clase
-CLASE 3
+
+Mi primer pagina de turismo :v
